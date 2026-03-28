@@ -1,0 +1,10 @@
+rootProject.name = 'ATIVIDADES_PUC'
+include('semana08')
+include('semana07')
+include('semana06')
+include('semana05')
+include('semana04')
+include('semana03')
+include('semana02')
+include('semana01')
+

@@ -1,0 +1,10 @@
+{
+    "cSpell.language": "en,pt,pt-BR",
+    "cSpell.words": [
+        "pyrebase",
+        "usuarios"
+    ],
+    "python.analysis.extraPaths": [
+        "./atividade pratica/app_firebase/internal"
+    ]
+}
