@@ -1,5 +1,0 @@
-// Define o nome do projeto
-rootProject.name = 'JavaAplicacoesDiversas'
-include 'BitmapPixelsEditor'
-include 'BinarySearchTree'
-include 'JogoForca'

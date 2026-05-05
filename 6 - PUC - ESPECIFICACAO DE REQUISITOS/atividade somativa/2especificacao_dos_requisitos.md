@@ -1,0 +1,5 @@
+A ideia é muito parecida com o que vimos na videoaula. Primeiramente, no fluxo macro, elenque as principais atividades de negócio que precisam aparecer, como inserir dados financeiros, manipular dados financeiros, calcular valor final, avaliar valor final com o histórico do ano anterior (se houver) e, se algum dos valores ficar muito discrepante de um ano para outro, pedir o parecer dos gerentes responsáveis. 
+
+Depois, elenque os requisitos funcionais mais detalhadamente, como o que o sistema fará de fato e, nos requisitos não funcionais, atente-se para que ele seja rápido quando o time financeiro começar a trabalhar nele. Não precisa ser um sistema crítico, com suporte 24/7, por exemplo, mas precisa de poder de processamento para que o projeto tenha êxito. Nesse sentido, observe que esse é um requisito não funcional de extrema importância. 
+
+Por fim, o documento de arquitetura simples deve mostrar a ideia do sistema e a integração com o ERP principal, bem como informar se será na nuvem ou em um servidor local. Apenas informações mínimas iniciais. 

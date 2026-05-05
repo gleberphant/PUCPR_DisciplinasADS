@@ -1,0 +1,80 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2" pages="2">
+  <diagram name="Page-1" id="DFkjnlKVobJHFOh92AW_">
+    <mxGraphModel dx="1438" dy="1280" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JiS0QL7Ngf6ZTImmpD87-43" value="Diagrama Implantação" style="swimlane;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="1055" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="JiS0QL7Ngf6ZTImmpD87-31" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt; DataBase" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;shadow=0;" vertex="1" parent="JiS0QL7Ngf6ZTImmpD87-43">
+          <mxGeometry x="795" y="115" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="JiS0QL7Ngf6ZTImmpD87-29" value="SGBD: Mysql" style="html=1;dropTarget=0;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="JiS0QL7Ngf6ZTImmpD87-31">
+          <mxGeometry x="20.003333333333337" y="69.99666666666667" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JiS0QL7Ngf6ZTImmpD87-30" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="JiS0QL7Ngf6ZTImmpD87-29">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiS0QL7Ngf6ZTImmpD87-52" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt; Client" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="JiS0QL7Ngf6ZTImmpD87-43">
+          <mxGeometry x="72" y="113" width="256" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="JiS0QL7Ngf6ZTImmpD87-53" value="&amp;lt;&amp;lt;executionEnvironment:: WebBrowser" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="JiS0QL7Ngf6ZTImmpD87-52">
+          <mxGeometry width="226" height="110" relative="1" as="geometry">
+            <mxPoint x="9" y="37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiS0QL7Ngf6ZTImmpD87-35" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;FrontEnd APP&lt;/span&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="JiS0QL7Ngf6ZTImmpD87-52">
+          <mxGeometry x="48.998636363636365" y="74.99857142857144" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JiS0QL7Ngf6ZTImmpD87-36" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="JiS0QL7Ngf6ZTImmpD87-35">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiS0QL7Ngf6ZTImmpD87-57" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt; Applicatoin Server" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="JiS0QL7Ngf6ZTImmpD87-43">
+          <mxGeometry x="420" y="113" width="256" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="JiS0QL7Ngf6ZTImmpD87-58" value="&amp;lt;&amp;lt;executionEnvironment:: Web Server" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="JiS0QL7Ngf6ZTImmpD87-57">
+          <mxGeometry width="226" height="110" relative="1" as="geometry">
+            <mxPoint x="9" y="37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiS0QL7Ngf6ZTImmpD87-59" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BackEndAPP&lt;/span&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="JiS0QL7Ngf6ZTImmpD87-57">
+          <mxGeometry x="48.998636363636365" y="74.99857142857144" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JiS0QL7Ngf6ZTImmpD87-60" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="JiS0QL7Ngf6ZTImmpD87-59">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiS0QL7Ngf6ZTImmpD87-46" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JiS0QL7Ngf6ZTImmpD87-43" source="JiS0QL7Ngf6ZTImmpD87-35" target="JiS0QL7Ngf6ZTImmpD87-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiS0QL7Ngf6ZTImmpD87-50" value="&amp;lt;&amp;lt; REST/JSON&amp;nbsp;&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="JiS0QL7Ngf6ZTImmpD87-46">
+          <mxGeometry x="-0.0587" y="-4" relative="1" as="geometry">
+            <mxPoint x="13" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiS0QL7Ngf6ZTImmpD87-45" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="JiS0QL7Ngf6ZTImmpD87-43" source="JiS0QL7Ngf6ZTImmpD87-59" target="JiS0QL7Ngf6ZTImmpD87-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiS0QL7Ngf6ZTImmpD87-48" value="&amp;lt;&amp;lt; SQL &lt;br&gt;PROTOCOL &amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="JiS0QL7Ngf6ZTImmpD87-45">
+          <mxGeometry x="-0.0305" y="-1" relative="1" as="geometry">
+            <mxPoint x="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zJxhvA9lKyDbWnqhQGx_" name="Page-2">
+    <mxGraphModel dx="935" dy="832" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

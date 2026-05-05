@@ -1,0 +1,142 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2">
+  <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
+    <mxGraphModel dx="7463" dy="2143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="698" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e8edf0;fontSize=60;fontColor=#2F5B7C;align=left;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="-2290" y="32" width="2250" height="1598" as="geometry" />
+        </mxCell>
+        <mxCell id="699" value="&lt;div style=&quot;font-size: 26px&quot;&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Relacionamento com Cliente&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-950" y="220" width="420" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="700" value="&lt;font&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Parceiros&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-2210" y="220" width="420" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="701" value="&lt;font&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Atividades Chave&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-1790" y="220" width="420" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="702" value="&lt;div&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Recursos Chave&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-1790" y="670" width="420" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="703" value="&lt;div style=&quot;font-size: 26px&quot;&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Proposta de Valor&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-1370" y="220" width="420" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="704" value="&lt;div&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Segmento de Cliente&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-530" y="220" width="420" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="705" value="&lt;div&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;Canais&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-950" y="670" width="420" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="706" value="&lt;div style=&quot;font-size: 26px&quot;&gt;Estrutura de Custo&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-2210" y="1120" width="1050" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="707" value="&lt;div style=&quot;font-size: 26px&quot;&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Fontes de Receita&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-1160" y="1120" width="1050" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="708" value="&lt;b&gt;Negócio&lt;/b&gt;: Janayna Nunes Advocacia" style="text;html=1;resizable=1;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=60;fontColor=#2F5B7C;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-2210" y="70" width="1000" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="709" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.ios7.misc.check;strokeColor=#2F5B7C;fillColor=#ffffff;gradientColor=none;fontSize=12;fontColor=#2F5B7C;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-1410" y="252" width="20" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="710" value="" style="shape=mxgraph.signs.travel.present;html=1;fillColor=#2F5B7C;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;shadow=0;labelBackgroundColor=none;fontSize=12;fontColor=#2F5B7C;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-1000" y="235" width="31" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="711" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=3;strokeColor=none;fillColor=#2F5B7C;shadow=0;dashed=0;shape=mxgraph.ios7.icons.heart;fontSize=12;fontColor=#2F5B7C;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-594.9999999999997" y="242" width="41" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="715" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.mscae.cloud.data_factory;fillColor=#2F5B7C;labelBackgroundColor=none;fontSize=10;fontColor=#2F5B7C;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-1440" y="690" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="716" value="" style="shape=mxgraph.signs.transportation.truck_6;html=1;fillColor=#2F5B7C;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;shadow=0;labelBackgroundColor=none;fontSize=10;fontColor=#2F5B7C;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-590" y="690" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="717" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/price-128.png;shadow=0;strokeColor=#e8edf0;strokeWidth=3;fillColor=#2F5B7C;gradientColor=none;fontSize=10;fontColor=#2F5B7C;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-1226" y="1140" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="718" value="" style="dashed=0;html=1;shape=mxgraph.aws3.checklist_cost;fillColor=#2F5B7C;gradientColor=none;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontSize=10;fontColor=#2F5B7C;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-203.5" y="1131.5" width="67.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="719" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#2F5B7C;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shape=mxgraph.office.concepts.link;labelBackgroundColor=none;fontSize=10;fontColor=#000000;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-1871" y="241" width="61" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="720" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-203.5" y="245" width="69" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="721" value="" style="shadow=0;dashed=0;html=1;strokeColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shape=mxgraph.office.users.user;fillColor=#2F5B7C;labelBackgroundColor=none;fontSize=10;fontColor=#000000;align=left;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="720" vertex="1">
+          <mxGeometry x="31" y="-5" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="722" value="" style="shadow=0;dashed=0;html=1;strokeColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shape=mxgraph.office.users.user;fillColor=#2F5B7C;labelBackgroundColor=none;fontSize=10;fontColor=#000000;align=left;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="720" vertex="1">
+          <mxGeometry width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-722" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Advocacia especializada no atendimento a mulher em processo de divórcio&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1320" y="350" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-723" value="&lt;b&gt;Atividades Terceiros:&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1º Marketing Digital e Social Média&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2º Infraestrutura de TI&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3º Limpeza do Espaço&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-2160" y="350" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-724" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Optimização:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1º serviços de interesse do público feminino&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2º escritórios de advocacia para parcerias em áreas estranhas&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3º Disponilibilização da Sala&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-2160" y="900" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-726" value="&lt;b&gt;Particula direto:&lt;/b&gt;&lt;div&gt;1. Vendas Web : Site e Instagram&lt;/div&gt;&lt;div&gt;2. Contato Pessoal : Whasapp&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="750" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-727" value="&lt;b&gt;Custos fixos:&lt;/b&gt;&lt;div&gt;- Aluguel de sala&lt;/div&gt;&lt;div&gt;- Serviço de Internet&lt;/div&gt;&lt;div&gt;- Agência de Marketing&lt;/div&gt;&lt;div&gt;- Remunerações:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Secretária,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Advogadas e&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Estagiárias&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-2160" y="1210" width="320" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-728" value="&lt;b&gt;Receitas Dinamicas(Negociação)&lt;/b&gt;&lt;div&gt;1º Honorários contratuais&lt;/div&gt;&lt;div&gt;2º Honorários Sucumbenciais&lt;/div&gt;&lt;div&gt;3º I&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ndicações e repasses à escritório parceiros&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="1215" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-729" value="&lt;div&gt;&lt;b&gt;Mercado de Nicho:&lt;/b&gt;&lt;/div&gt;Mulheres em processo de divórcio&lt;div&gt;ou em disputa de guarda ou pensão&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="350" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-730" value="&lt;b&gt;Particula indireto&lt;/b&gt;:&lt;div&gt;Marketing Digital Instagram&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="920" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-731" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2º Serviços Automáticos&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; - Instagram&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="440" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-732" value="&lt;b&gt;Solução de Problemas:&lt;/b&gt;&lt;div&gt;1º processo de divórcio para mulheres&lt;/div&gt;&lt;div&gt;2º guarda de filhos&lt;/div&gt;&lt;div&gt;3º definição de pensão justa&lt;/div&gt;&lt;div&gt;4º inventário&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1740" y="350" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-733" value="&lt;b&gt;Físicos:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Escritório e&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Computadores&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1740" y="750" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-734" value="&lt;b&gt;Pessoal&lt;/b&gt;:&lt;div&gt;- 01 Gerente&lt;/div&gt;&lt;div&gt;- 02 Advogadas especializadas&amp;nbsp;&lt;/div&gt;&lt;div&gt;- 03 Estagiária com foco de gênero&lt;/div&gt;&lt;div&gt;- 01 Secretária&lt;/div&gt;&lt;div&gt;- 01 Social Média&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1740" y="890" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-735" value="&lt;b&gt;Custos variados:&lt;/b&gt;&lt;div&gt;- material de escritório&lt;/div&gt;&lt;div&gt;- combustível para diligências&lt;/div&gt;&lt;div&gt;- Manutenção(Luz e Água)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=middle;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-1812.5" y="1210" width="300" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-736" value="&lt;div&gt;&lt;b&gt;Direcionamento &lt;/b&gt;pelo Valor&lt;/div&gt;&lt;div&gt;&lt;b&gt;Economia &lt;/b&gt;de Escopo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-1482.5" y="1210" width="300" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-737" value="&lt;b&gt;Tipos de receitas:&lt;/b&gt;&lt;div&gt;- Vendas: Contratos&lt;/div&gt;&lt;div&gt;- Corretagem: indicações e repasses à escritório parceiros&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-1072.5" y="1215" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-738" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Características&lt;/b&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1º Fazendo o que deve ser feito&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2º Atendimento Personalizado&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3º Redução de Riscos&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=left;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1320" y="635" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-739" value="&lt;b&gt;Financeiro:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Capital de Giro para pagamento dos custos&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1740" y="1040" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-740" value="&lt;b&gt;Intelectual:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Marca e&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Método de trabalho&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1740" y="820" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-741" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Redução de Risco:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1º escritórios de advocacia para parcerias em áreas afins&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-2160" y="625" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-742" value="&lt;b&gt;Segmento&lt;/b&gt;: Direito de família" style="text;html=1;resizable=1;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=32;fontColor=#2F5B7C;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-2210" y="150" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-743" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3º Pessoal&amp;nbsp; -&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Whasapp&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="530" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7Q5mz7IR6A7ga1v8_-B-744" value="&lt;b&gt;1º Self-Service&lt;/b&gt;&amp;nbsp;- Site com FAQ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="350" width="320" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

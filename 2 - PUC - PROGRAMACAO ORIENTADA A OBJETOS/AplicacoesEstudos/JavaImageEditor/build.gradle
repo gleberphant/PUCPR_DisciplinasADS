@@ -1,0 +1,33 @@
+plugins {
+    // Apply the application plugin to add support for building a CLI application in Java.
+    id 'application'
+}
+
+repositories {
+    // Use Maven Central for resolving dependencies.
+    mavenCentral()
+}
+
+dependencies {
+    // Adicione aqui as dependências necessárias, caso existam.
+}
+
+java{
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(23) // Use uma versão LTS estável.
+    }
+}
+application {
+    // Define the main class for the application.
+    mainClass = 'App.Main'
+
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8' // Define o encoding para a compilação
+}
+
+tasks.withType(JavaExec).configureEach {
+    standardInput = System.in
+    systemProperty 'file.encoding', 'UTF-8' // Define o encoding para a execução
+}
