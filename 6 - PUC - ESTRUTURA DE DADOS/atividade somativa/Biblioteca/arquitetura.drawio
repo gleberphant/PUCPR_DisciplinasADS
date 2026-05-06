@@ -1,0 +1,75 @@
+<mxfile host="65bd71144e">
+    <diagram id="0JHgUysuBgkgSA5MOghe" name="Page-1">
+        <mxGraphModel dx="1003" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="V0iMHi8r4ZUFNM-btemj-26" value="Camada Infraestrutura" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="19" y="150" width="701" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="ConsoleUI" style="rounded=0;whiteSpace=wrap;html=1;" parent="V0iMHi8r4ZUFNM-btemj-26" vertex="1">
+                    <mxGeometry x="147.75" y="50" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="V0iMHi8r4ZUFNM-btemj-27" value="Camada Adaptadores" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="19" y="320" width="701" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Controladores" style="rounded=0;whiteSpace=wrap;html=1;" parent="V0iMHi8r4ZUFNM-btemj-27" vertex="1">
+                    <mxGeometry x="151" y="70" width="93.5" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="Repositorios" style="rounded=0;whiteSpace=wrap;html=1;" parent="V0iMHi8r4ZUFNM-btemj-27" vertex="1">
+                    <mxGeometry x="466" y="60" width="130" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Camada Aplicação" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;dashed=1;startSize=23;" parent="1" vertex="1">
+                    <mxGeometry x="19" y="530" width="701" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="31" source="6" target="38">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Servico" style="rounded=0;whiteSpace=wrap;html=1;" parent="31" vertex="1">
+                    <mxGeometry x="137.75" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Interface&lt;div&gt;Repositorio&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="31" vertex="1">
+                    <mxGeometry x="471" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="V0iMHi8r4ZUFNM-btemj-28" value="Camada Dominio" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="19" y="750" width="701" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Modelos" style="rounded=0;whiteSpace=wrap;html=1;" parent="V0iMHi8r4ZUFNM-btemj-28" vertex="1">
+                    <mxGeometry x="51" y="35" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Algoritimos" style="rounded=0;whiteSpace=wrap;html=1;" parent="V0iMHi8r4ZUFNM-btemj-28" vertex="1">
+                    <mxGeometry x="234.5" y="35" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Estruturas Dados&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="V0iMHi8r4ZUFNM-btemj-28" vertex="1">
+                    <mxGeometry x="421" y="35" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;endFill=1;endSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="51" target="13" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="480" y="270" as="targetPoint"/>
+                        <mxPoint x="690" y="420" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="69" style="edgeStyle=none;html=1;" edge="1" parent="1" source="6" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" style="edgeStyle=none;html=1;" edge="1" parent="1" source="6" target="25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" style="edgeStyle=none;html=1;" edge="1" parent="1" source="6" target="13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" style="edgeStyle=none;html=1;" edge="1" parent="1" source="51" target="38">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="440" y="480" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="73" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" style="edgeStyle=none;html=1;" edge="1" parent="1" source="14" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

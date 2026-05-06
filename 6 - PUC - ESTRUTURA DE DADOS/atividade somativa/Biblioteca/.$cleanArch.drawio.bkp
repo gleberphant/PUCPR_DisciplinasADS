@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="0JHgUysuBgkgSA5MOghe" name="Page-1">
+        <mxGraphModel dx="866" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="Controlador" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Repositorio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="465" y="270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Casos de uso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="353.5" width="270" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Camada Adaptadores" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="40" y="270" width="270" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Camada Aplicacao" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="40" y="353.5" width="270" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Camada Dominio" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="40" y="430" width="270" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Entidades" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="430" width="270" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Camada Infraestrutura" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="40" y="190" width="270" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Banco de Dados" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="465" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Console" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

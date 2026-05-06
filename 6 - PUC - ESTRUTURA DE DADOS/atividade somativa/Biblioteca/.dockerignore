@@ -1,0 +1,6 @@
+# Ignora arquivos e pastas gerados pelo processo de build local
+out/
+bin/
+*.class
+
+
